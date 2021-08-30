@@ -4,6 +4,4 @@
 print("hey buddy whatsup")
 print("hey buddy whatsup")
 print("hey buddy whatsup")
-print("hey buddy whatsup")
-
 
